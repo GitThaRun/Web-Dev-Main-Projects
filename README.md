@@ -42,5 +42,3 @@ Each project is in its own folder:
 ## 🚧 More Projects Coming Soon
 
 This is an ongoing repository. More intermediate-to-advanced web development projects are being planned and will be added soon. 
-
-📌 Follow the repo or ⭐ it to stay updated!
