@@ -19,6 +19,7 @@ This repo is aimed at:
 | Project | Description |
 |--------|-------------|
 | ✅ Recipe Card | Toggle sections, highlight steps, animate progress bar, and use a cooking timer |
+| ✅ Job Application Tracker | The Job Application Tracker is a simple web app that helps users keep track of job applications.|
 ---
 
 ## 🛠️ Tools & Technologies
