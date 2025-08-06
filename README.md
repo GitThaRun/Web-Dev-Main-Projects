@@ -20,6 +20,7 @@ This repo is aimed at:
 |--------|-------------|
 | ✅ Recipe Card | Toggle sections, highlight steps, animate progress bar, and use a cooking timer |
 | ✅ Job Application Tracker | The Job Application Tracker is a simple web app that helps users keep track of job applications.|
+| ✅ Calculator | A simple calculator built using basic HTML,CSS and JavaScript that let users enter input and calculates the result.|
 ---
 
 ## 🛠️ Tools & Technologies
