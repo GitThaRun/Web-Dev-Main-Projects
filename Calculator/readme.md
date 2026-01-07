@@ -13,7 +13,8 @@ A simple browser calculator that performs basic arithmetic operations.
 - JavaScript
 
 ## 📸 Screenshot
-![Calculator Screenshot](screenshot.png)
+<img width="2282" height="908" alt="calculatorPreview" src="https://github.com/user-attachments/assets/b85138e4-eb45-463f-8418-13a3c45bd174" />
+
 
 ## 📍 How to Run
 Open `index.html` in any browser.
