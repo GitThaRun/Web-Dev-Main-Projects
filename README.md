@@ -32,4 +32,4 @@ Each project is isolated in its own folder with its own README and screenshot:
 Your Name  
 3rd Year CSE | Front-End Web Development
 
-LinkedIn: <(https://www.linkedin.com/in/jami-tharun/)>
+LinkedIn: <https://www.linkedin.com/in/jami-tharun/>
