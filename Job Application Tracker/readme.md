@@ -13,7 +13,7 @@ Web app to track and organize online job applications.
 - JavaScript
 
 ## 📸 Screenshot
-![Job Tracker Screenshot](screenshot.png)
+<img width="2282" height="960" alt="JobTrackerPreview" src="https://github.com/user-attachments/assets/3d2ba805-a167-44d4-a4b5-d4cd9270d570" />
 
 ## 📍 How to Run
 Open `index.html` in browser.
